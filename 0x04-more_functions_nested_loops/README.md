@@ -4,6 +4,8 @@
 
 [![Progress](https://img.shields.io/badge/Progress-13%2F13-blue.svg)](https://shields.io/)
 
+This directory contains several programs that I have created. Below is a list of the programs and a brief description of what each one does.
+
 - [0-isupper.c](0-isupper.c) - This program contains a function that checks if a character is uppercase.
 - [1-isdigit.c](1-isdigit.c) - This program contains a function that checks if a character is a digit.
 - [2-mul.c](2-mul.c) - This program contains a function that multiplies two integers and returns the result.
