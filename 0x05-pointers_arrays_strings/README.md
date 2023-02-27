@@ -4,6 +4,8 @@
 
 [![Progress](https://img.shields.io/badge/Progress-12%2F12-blue.svg)](https://shields.io/)
 
+This directory contains several programs that I have created. Below is a list of the programs and a brief description of what each one does.
+
 - [0-reset_to_98.c](0-reset_to_98.c) - This file contains a function void reset_to_98(int \*n) that takes a pointer to an integer as parameter and updates the value it points to 98.
 - [1-swap.c](1-swap.c) - This file contains a function void swap_int(int *a, int *b) that swaps the values of two integers.
 - [2-strlen.c](2-strlen.c) - This file contains a function int \_strlen(char \*s) that returns the length of a string.
