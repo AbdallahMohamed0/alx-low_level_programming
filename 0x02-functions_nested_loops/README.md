@@ -7,7 +7,7 @@
 This directory contains several C programs that I have created. Below is a list of the programs and a brief description of what each one does.
 
 - [0-putchar.c](0-putchar.c) - a program that prints \_putchar, followed by a new line.
-- [1-alphabet.c](1-alphabet.c) - a program that prints \_putchar, followed by a new line.
+- [1-alphabet.c](1-alphabet.c) - a function that prints the alphabet, in lowercase, followed by a new line.
 - [2-print_alphabet_x10.c](2-print_alphabet_x10.c) - a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 - [3-islower.c](3-islower.c) - a function that checks for lowercase character.
 - [4-isalpha.c](4-isalpha.c) - a function that checks for alphabetic character.
