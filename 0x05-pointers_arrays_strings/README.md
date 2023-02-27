@@ -17,4 +17,4 @@ This directory contains several programs that I have created. Below is a list of
 - [8-print_array.c](8-print_array.c) - This file contains a function void print_array(int \*a, int n) that prints n elements of an array of integers, followed by a new line.
 - [9-strcpy.c](9-strcpy.c) - This file contains a function char *\_strcpy(char *dest, char \*src) that copies the string pointed to by src, including the terminating null byte ('\0'), to the buffer pointed to by dest.
 - [100-atoi.c](100-atoi.c) - This file contains a function int \_atoi(char \*s) that converts a string to an integer.
-- [101-keygen.c](101-keygen.c) - This file contains a program that generates random valid passwords for the program 101-crackme.
+- [101-keygen.c](101-keygen.c) - This file contains a program that generates random passwords for the program 101-crackme.
