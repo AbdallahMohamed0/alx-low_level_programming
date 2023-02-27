@@ -11,7 +11,7 @@ This directory contains several programs that I have created. Below is a list of
 - [2-mul.c](2-mul.c) - This program contains a function that multiplies two integers and returns the result.
 - [3-print_numbers.c](3-print_numbers.c) - This program contains a function that prints the numbers from 0 to 9.
 - [4-print_most_numbers.c](4-print_most_numbers.c) - This program contains a function that prints the numbers from 0 to 9, excluding 2 and 4.
-- [5-more_numbers.c](5-more_numbers.c) - This program contains a function that prints the numbers from 0 to 14, ten times.
+- [5-more_numbers.c](5-more_numbers.c) - This program contains a function that prints the numbers from 0 to 14, (ten times).
 - [6-print_line.c](6-print*line.c) - This program contains a function that prints a straight line of a specified length using the ASCII character '*'.
 - [7-print_diagonal.c](7-print_diagonal.c) - This program contains a function that prints a diagonal line of a specified length using the ASCII character '' .
 - [8-print_square.c](8-print_square.c) - This program contains a function that prints a square of a specified size using the ASCII character '#' .
