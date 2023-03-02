@@ -5,7 +5,7 @@
  * @s: string to capitalize
  * Return: return s
  */
-char *cap_string(char *s)
+char *cap_string(char *)
 {
 	int i = 0, j;
 	char a[] = " \t\n,;.!?\"(){}";
@@ -28,4 +28,4 @@ char *cap_string(char *s)
 		i++;
 	}
 	return (s);
-}}
+}
