@@ -1,4 +1,4 @@
-#include "main,h"
+#include "main.h"
 /**
  * _pow_recursion - computes the power of an integer
  * @x: base integer
