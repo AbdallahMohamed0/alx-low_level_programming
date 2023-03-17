@@ -2,14 +2,13 @@
 
 ## Tasks
 
-[![Progress](https://img.shields.io/badge/Progress-7%2F7-blue.svg)](https://shields.io/)
+[![Progress](https://img.shields.io/badge/Progress-6%2F6-blue.svg)](https://shields.io/)
 
 This directory contains several programs that I have created. Below is a list of the programs and a brief description of what each one does.
 
-- [0-create_array.c](0-create_array.c) - This file contains a function that creates an array of integers.
-- [1-strdup.c](1-strdup.c) - This file contains a function that duplicates a string.
-- [2-str_concat.c](2-str_concat.c) - This file contains a function that concatenates two strings.
-- [3-alloc_grid.c](3-alloc_grid.c) - This file contains a function that allocates a 2D array.
-- [4-free_grid.c](4-free_grid.c) - This file contains a function that frees a 2D array.
-- [100-argstostr.c](100-argstostr.c) - This file contains a function that concatenates all arguments of a program.
-- [101-strtow.c](101-strtow.c) - This file contains a function that splits a string into words.
+- [0-malloc_checked.c](0-malloc_checked.c) - This file contains a function that dynamically allocates memory using malloc and checks if it was successful.
+- [1-string_nconcat.c](1-string_nconcat.c) - This file contains a function that concatenates two strings, up to a specified number of characters.
+- [2-calloc.c](2-calloc.c) - This file contains a function that dynamically allocates memory using calloc and initializes the allocated memory to zero.
+- [3-array_range.c](3-array_range.c) - This file contains a function that creates an array of integers with values ranging from min to max.
+- [100-realloc.c](100-realloc.c) - This file contains a function that reallocates memory previously allocated with malloc or calloc.
+- [101-mul.c](101-mul.c) - This file contains a function that multiplies two positive numbers represented as strings.
